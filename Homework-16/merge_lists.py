@@ -8,9 +8,3 @@ list2=["coke", "pepsi", "juice"]
 list = list1 + list2
 
 print(list)
-
-    
-
-
-    
-
